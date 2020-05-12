@@ -3,40 +3,40 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Andrew Hibbard',
+  subtitle: 'engr',
+  copyright: '© Andrew Hibbard . All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-166246879-1',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
-    },
-    {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'Projects',
+      path: '/pages/projects'
+    },
+    {
+      label: 'Writing & Curating',
+      path: '/pages/art'
+    },
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Andrew Hibbard',
+    photo: '',
+    bio: 'engineer . writer',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'aohibbard',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'andrew-hibbard',
       instagram: '#',
       line: '',
       gitlab: '',
