@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Andrew Hibbard',
-  subtitle: 'engr',
+  subtitle: 'engineer. writer',
   copyright: '© Andrew Hibbard . All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
