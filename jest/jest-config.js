@@ -1,5 +1,5 @@
 'use strict';
-
+//rootDir initially: '../'
 module.exports = {
   rootDir: '../',
   transform: {

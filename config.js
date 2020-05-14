@@ -1,4 +1,10 @@
+// {
+//   label: 'About',
+//   path: '/pages/about'
+// },
+
 'use strict';
+
 
 module.exports = {
   url: 'https://lumen.netlify.com',
@@ -11,10 +17,6 @@ module.exports = {
   googleAnalyticsId: 'UA-166246879-1',
   useKatex: false,
   menu: [
-    {
-      label: 'About',
-      path: '/pages/about'
-    },
     {
       label: 'Projects',
       path: '/pages/projects'
