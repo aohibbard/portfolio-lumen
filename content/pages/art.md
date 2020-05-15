@@ -9,11 +9,14 @@ template: "page"
 
 “Susan Hiller at Matt’s Gallery,” Art Monthly, October 2019
 
+["Eggplant, Banana, Super Glue,"](Eggplant, Banana, Super Glue
+) The Hoosac Institute, Issue 3, 2019.
+
 “Hall of Contagion,” [A Queer Anthology of Sickness](https://www.antennebooks.com/product/a-queer-anthology-of-sickness/). London: Pilot Press, 2019.
 
 [“Okwui Okpokwasili and What It Means to Sit on a Man,”](https://frieze.com/article/okwui-okpokwasili-and-what-it-means-sit-man) frieze.com, June 3, 2019
 
-['A Neatly Exetnded Middle Finger' (On the moving image work of Elizabeth Price)](http://moussemagazine.it/elizabeth-price-andrew-hibbard-2019/), Mousse 67, Spring 2019
+['A Neatly Exetnded Middle Finger'](http://moussemagazine.it/elizabeth-price-andrew-hibbard-2019/), Mousse 67, Spring 2019
 
 ['The Universe Flickers at SALT Galata'](https://frieze.com/article/what-do-buildings-witness-and-which-stories-can-they-tell), Frieze, March 2019
 
