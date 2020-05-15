@@ -9,8 +9,7 @@ template: "page"
 
 “Susan Hiller at Matt’s Gallery,” Art Monthly, October 2019
 
-["Eggplant, Banana, Super Glue,"](Eggplant, Banana, Super Glue
-) The Hoosac Institute, Issue 3, 2019.
+["Eggplant, Banana, Super Glue,"](https://hoosacinstitute.com/Andrew-Hibbard) The Hoosac Institute, Issue 3, 2019.
 
 “Hall of Contagion,” [A Queer Anthology of Sickness](https://www.antennebooks.com/product/a-queer-anthology-of-sickness/). London: Pilot Press, 2019.
 
