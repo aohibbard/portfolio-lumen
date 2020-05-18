@@ -7,7 +7,7 @@
 
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.aohibbard.com',
   pathPrefix: '/',
   title: 'Andrew Hibbard',
   subtitle: 'engineer. writer',
