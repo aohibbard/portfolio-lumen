@@ -2,10 +2,11 @@
 title: "Projects"
 template: "page"
 ---
+A set of projects completed between  November 2019 and April 2020 with Flatiron School hosted on Heroku and Github pages (loading may be slow initially)
 
 ##### [Job Tracker](https://jobtracker-app.herokuapp.com/)
 Job hunt management tool written in React/Redux with Rails API
-##### Task Master
+##### [Task Master](https://aohibbard.github.io/taskmaster/frontend/)
 Simple task application in vanilla JS
 ##### [Collector](https://collectr-app.herokuapp.com/)
 Art collection management tool in Sinatra
