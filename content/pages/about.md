@@ -3,7 +3,7 @@ title: "About"
 template: "page"
 ---
 
-Andrew Hibbard is a software engineer.
+Andrew Hibbard is a software engineer with a background in the visual arts.
 
 ### Contact
 
