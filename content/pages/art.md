@@ -7,6 +7,8 @@ template: "page"
 
 [‘African Cosmologies’ Deftly Navigates the Challenges of Photographing the Diaspora](https://frieze.com/article/african-cosmologies-deftly-navigates-challenges-photographing-diaspora), frieze.com, March 20, 2020
 
+['Untitled (1989/2019)'](http://exhibitionreviewsannual.com/iaac-entry/andrew-oneill-hibbard/#selectedentries), IAAC6 Exhibitions Review Annual, Award Finalist, December 2020
+
 “Susan Hiller at Matt’s Gallery,” Art Monthly, October 2019
 
 ["Eggplant, Banana, Super Glue,"](https://hoosacinstitute.com/Andrew-Hibbard) The Hoosac Institute, Issue 3, 2019.
