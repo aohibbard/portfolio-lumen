@@ -18,10 +18,6 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Projects',
-      path: '/pages/projects'
-    },
-    {
       label: 'Writing & Curating',
       path: '/pages/art'
     },
@@ -29,7 +25,7 @@ module.exports = {
   author: {
     name: 'Andrew Hibbard',
     photo: '',
-    bio: 'engineer . writer',
+    bio: ' . ',
     contacts: {
       email: '',
       facebook: '#',
